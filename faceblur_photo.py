@@ -1,4 +1,4 @@
-#imports opencv2 anf mediapipe libraries for face detection and blurring
+#imports opencv2 and mediapipe libraries for face detection and blurring
 import cv2
 import mediapipe as mp
 
