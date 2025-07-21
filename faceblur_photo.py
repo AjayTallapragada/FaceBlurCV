@@ -6,7 +6,7 @@ import mediapipe as mp
 mp_face_detection = mp.solutions.face_detection
 
 # Read image
-img = cv2.imread('group.jpg')
+img = cv2.imread('1person.jpg')
 
 #changes the image to rgb scale 
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
